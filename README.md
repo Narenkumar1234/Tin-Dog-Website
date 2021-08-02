@@ -1,1 +1,1 @@
-TinDog Starting Files
+Simple static webpage on TinDog
